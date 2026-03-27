@@ -30,6 +30,10 @@
 [View](https://drive.google.com/file/d/1EEt0N4aOfJudCs0KlNbFoCo5f-JoQM78/view?usp=drive_link)
 
 
+<details>
+  <summary>News Sequence</summary>
+
+[View](https://drive.google.com/file/d/1Cobeyzdf8_ksKj9ZL-ze6fX-34x2rVLC/view)
 
 
   <details>
