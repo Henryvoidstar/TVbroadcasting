@@ -5,7 +5,7 @@
 ## Members 
 
 ### Preston Sheppard: Audio
-### Henry Hart: Director
+### Henry Hart: Director/editor
 ### Lucas Wu: Camera Operator/Editor
 ### Ayden James: Teleprompter
 
