@@ -17,12 +17,11 @@
 </details>
 <details>
   <summary>Walking Sequence</summary>
-</details>
 **3/10/26 Preston Walking around the track, using two clips, one of Preston in a greenscreen**
 
   [View](https://drive.google.com/file/d/1j0Aw4WNRa5PLCXpRC0xVUBMevUUV4H3X/view)
 
-
+</details>
   <details>
   <summary>TSA Interview</summary>
   
@@ -36,8 +35,8 @@
 
 [View](https://drive.google.com/file/d/1Cobeyzdf8_ksKj9ZL-ze6fX-34x2rVLC/view)
 
-
   </details>
+  <details>
   <summary>Rise Video</summary>
 
   [View](https://drive.google.com/file/d/1I5_ebQGUFRlBTQKHAnkd7lNvbt1swHwt/view?usp=drive_link)
